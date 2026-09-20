@@ -1,2 +1,2 @@
-# Pokemon-Rejuvenation-14.0.20-Animierte-Sprites
+# Pokemon-Rejuvenation-14.0.24-Animierte-Sprites
 Animation-Sprites
